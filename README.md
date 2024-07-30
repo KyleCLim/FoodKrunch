@@ -1,4 +1,4 @@
-This project is a restaurant website with cart system and online payment features.
+This project is a restaurant website with cart system and online payment features in which SOLID principles were applied.
 The technologies used are MySQL, ExpressJS, React, NodeJS, CSS, HTML & Stripe API.
 
 To replicate the project, you have to create your own database schema using MySQL. A folder
