@@ -5,4 +5,5 @@ To replicate the project, you have to create your own database schema using MySQ
 named "mysql_tables" is inside the "backend" folder which contains SQL syntaxes to create the empty
 tables used in this project. You can import and run it to your MySQL database schema.
 
+Video demo link: https://youtu.be/cxj9VZh9wf4
 
